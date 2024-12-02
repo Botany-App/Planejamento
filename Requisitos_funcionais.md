@@ -2,9 +2,9 @@
 
   - [x] Cadastrar no sistema;
   - [x] Fazer login no sistema;
-  - [ ] Ver seus dados no sistema;
-  - [ ] Atulizar seus dados no sistema;
-  - [ ] Deletar sua conta no sistema;
+  - [x] Ver seus dados no sistema;
+  - [x] Atulizar seus dados no sistema;
+  - [x] Deletar sua conta no sistema;
   - [ ] Criar uma categoria de tarefa;
   - [ ] Ver o dados de uma de suas categoria de tarefa;
   - [ ] Ver os dados de todas suas categorias de tarefa;
