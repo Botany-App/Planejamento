@@ -1,7 +1,7 @@
 # Requisitos-Funcionais: MVP
 
-  - [ ] Cadastrar no sistema;
-  - [ ] Fazer login no sistema;
+  - [x] Cadastrar no sistema;
+  - [x] Fazer login no sistema;
   - [ ] Ver seus dados no sistema;
   - [ ] Atulizar seus dados no sistema;
   - [ ] Deletar sua conta no sistema;
