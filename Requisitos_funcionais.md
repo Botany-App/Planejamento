@@ -24,10 +24,9 @@
   - [x] Procurar uma categoria de planta pelo nome;
   - [x] Deletar um categoria de planta;
   - [ ] Relacionar uma planta com uma(s) categoria de planta;
-  - [ ] Procurar um espécie de planta pelo nome;
-  - [ ] Ver os dados de uma espécie de planta;
-  - [ ] Ver todas as espécies plantas;
-  - [ ] Procurar espécie de planta pelo nome;
+  - [x] Procurar um espécie de planta pelo nome;
+  - [x] Ver os dados de uma espécie de planta;
+  - [x] Ver todas as espécies plantas;
   - [ ] Criar uma planta;
   - [ ] Ler os dados de uma planta;
   - [ ] Ver gráfico de crescimento da planta;
