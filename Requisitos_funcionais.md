@@ -18,11 +18,11 @@
   - [ ] Procurar uma tarefa por urgẽncia;
   - [ ] Procurar uma tarefa por status;
   - [ ] Procurar uma tarefa por categorua de tarefa;
-  - [ ] Criar uma categoria de planta;
-  - [ ] Ver o dados de uma de suas categoria de planta;
-  - [ ] Ver os dados de todas suas categorias de planta;
-  - [ ] Procurar uma categoria de planta pelo nome;
-  - [ ] Deletar um categoria de planta;
+  - [x] Criar uma categoria de planta;
+  - [x] Ver o dados de uma de suas categoria de planta;
+  - [x] Ver os dados de todas suas categorias de planta;
+  - [x] Procurar uma categoria de planta pelo nome;
+  - [x] Deletar um categoria de planta;
   - [ ] Relacionar uma planta com uma(s) categoria de planta;
   - [ ] Procurar um espécie de planta pelo nome;
   - [ ] Ver os dados de uma espécie de planta;
